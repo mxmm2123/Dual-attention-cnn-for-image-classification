@@ -10,6 +10,7 @@ Use Spatial attention in BAM:
   [1]: ./images/BAM.png
 
 Frequency Channel Attention:
+
 ![][2]
 
   [2]: ./images/fcanet.png
